@@ -1,6 +1,6 @@
 # :red_circle::yellow_circle: Connect 4 :yellow_circle::red_circle:
 
-<p align="center"><img src="https://user-images.githubusercontent.com/87230771/126321360-f4c4c3f9-1751-4957-9f62-992f4c4da31b.png" alt="logo" width="500" class="center"/>
+<p align="center"><img src="https://user-images.githubusercontent.com/87230771/126864702-75fb4633-30e5-403e-ab48-a60d5807b4c3.jpg" alt="logo" width="500" class="center"/>
 <p align="center"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/MatthewTamYT/Connect-4?logo=GitHub"> 
 <img alt="GitHub" src="https://img.shields.io/github/license/MatthewTamYT/Connect-4?logo=GitHub">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/MatthewTamYT?color=%23000000&label=Follow%20Me%21&logoColor=%23000000&style=social">
