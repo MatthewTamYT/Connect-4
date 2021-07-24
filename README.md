@@ -1,11 +1,11 @@
 # :red_circle::yellow_circle: Connect 4 :yellow_circle::red_circle:
 
-<p align="center"><img src="https://user-images.githubusercontent.com/87230771/126864702-75fb4633-30e5-403e-ab48-a60d5807b4c3.jpg" alt="logo" width="500" class="center"/>
+<p align="center"><img src="https://user-images.githubusercontent.com/87230771/126864702-75fb4633-30e5-403e-ab48-a60d5807b4c3.jpg" alt="logo" width="650" class="center"/>
 <p align="center"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/MatthewTamYT/Connect-4?logo=GitHub"> 
 <img alt="GitHub" src="https://img.shields.io/github/license/MatthewTamYT/Connect-4?logo=GitHub">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/MatthewTamYT?color=%23000000&label=Follow%20Me%21&logoColor=%23000000&style=social">
 
-<p align="center"><img src="" alt="drawing" width="750" class="center"/>
+<p align="center"><img src="https://user-images.githubusercontent.com/87230771/126864986-409ecc08-7c6a-42a1-ac87-0ef0d84e016f.gif" alt="drawing" width="550" class="center"/>
 
 [![Stargazers repo roster for @MatthewTamYT/Connect-4](https://reporoster.com/stars/MatthewTamYT/Connect-4)](https://github.com/MatthewTamYT/Connect-4/stargazers)
 
